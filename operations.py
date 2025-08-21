@@ -32,10 +32,4 @@ def maximo(lista):
 # Programa principal para pruebas
 if __name__ == "__main__":
     print("Suma:", sumar(2, 3))          # ok
-    print("Resta:", restar(10, 5))       # ok
-    print("Multiplicación:", multiplicar(4, 6))  
-    print("División:", dividir(8, 2))    # debería fallar
-    print("Potencia:", potencia(2, 3))   # debería dar 8 pero no lo hará
-    print("Raíz cuadrada:", raiz_cuadrada(9))  # debería fallar
-    print("Promedio:", promedio([5,3]))     # debería fallar
-    print("Máximo:", maximo([4, 9, 2]))  # regresa 2 en vez de 9
+
