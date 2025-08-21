@@ -31,5 +31,5 @@ def maximo(lista):
 
 # Programa principal para pruebas
 if __name__ == "__main__":
-    print("Suma:", sumar(2, 3))          # ok
+    print("Suma Suma:", sumar(2, 3))          # ok
 
